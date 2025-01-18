@@ -1,0 +1,21 @@
+{
+	"name": "dugstheme",
+	"displayName": "Dug's theme",
+	"description": "Dug's private color theme for VS Code",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.96.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dug",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dugs-color-theme.json"
+			}
+		]
+	}
+}

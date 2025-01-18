@@ -1,0 +1,16 @@
+@font-face {
+	src: url('dummy.ttf');
+	font-family: dummy;
+}
+
+body {
+	margin: 0;
+}
+
+#id {
+	margin: 0;
+}
+
+.class {
+	margin: 0;
+}
