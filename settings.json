@@ -1,16 +1,53 @@
 {
+	"workbench.colorTheme": "Lotus Dark",
 	"workbench.colorCustomizations": {
-		"editor.background": "#161616",
-		"editorGutter.background": "#161616",
-		"panel.border": "#ff6188",
-		"sideBar.border": "#ff6188"
+		"editor.background": "#1d1d1d",
+		"editorGutter.background": "#1d1d1d",
+		"panel.border": "#ff618853",
+		"sideBar.border": "#ff618853"
 	},
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 			{
+				"scope": "keyword.control punctuation.definition.keyword.css",
+				"settings": {
+					"foreground": "#f87440"
+				}
+			},
+			{
+				"scope": "keyword.control",
+				"settings": {
+					"foreground": "#f87440"
+				}
+			},
+			{
 				"scope": "entity.name.tag",
 				"settings": {
 					"foreground": "#ff6188"
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name.id punctuation.definition.entity.css",
+				"settings": {
+					"foreground": "#bba0ff"
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name.id.css",
+				"settings": {
+					"foreground": "#bba0ff"
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name.class.css punctuation.definition.entity.css",
+				"settings": {
+					"foreground": "#AAE273"
+				}
+			},
+			{
+				"scope": "entity.other.attribute-name.class.css",
+				"settings": {
+					"foreground": "#AAE273"
 				}
 			}
 		]
