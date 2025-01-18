@@ -20,3 +20,5 @@
   </br>
 
 ### 2. ノート
+
+- Changed the way to make themes to editing existing themes

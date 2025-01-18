@@ -1,0 +1,18 @@
+{
+	"workbench.colorCustomizations": {
+		"editor.background": "#161616",
+		"editorGutter.background": "#161616",
+		"panel.border": "#ff6188",
+		"sideBar.border": "#ff6188"
+	},
+	"editor.tokenColorCustomizations": {
+		"textMateRules": [
+			{
+				"scope": "entity.name.tag",
+				"settings": {
+					"foreground": "#ff6188"
+				}
+			}
+		]
+	}
+}
