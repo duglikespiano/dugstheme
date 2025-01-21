@@ -9,6 +9,13 @@
 	"editor.tokenColorCustomizations": {
 		"textMateRules": [
 			{
+				"name": "js/ts colon",
+				"scope": ["keyword.operator.type.annotation.ts", "keyword.operator.type.annotation.js"],
+				"settings": {
+					"foreground": "#fcfcfa"
+				}
+			},
+			{
 				"scope": "keyword.control punctuation.definition.keyword.css",
 				"settings": {
 					"foreground": "#f87440"
