@@ -16,6 +16,13 @@
 				}
 			},
 			{
+				"name": "keyword.operator",
+				"scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
+				"settings": {
+					"foreground": "#55dbe4"
+				}
+			},
+			{
 				"scope": "keyword.control punctuation.definition.keyword.css",
 				"settings": {
 					"foreground": "#f87440"
