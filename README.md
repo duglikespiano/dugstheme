@@ -14,7 +14,8 @@
 ### 1. 개요
 
 - 프로젝트명 : dugstheme
-- 관련URL : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- 관련URL1 : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- 관련URL2 : https://vscodethemes.com/
 - 목표 : 나만의 vscode theme를 제작 할 것
   </br>
   </br>

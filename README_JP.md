@@ -14,7 +14,8 @@
 ### 1. 概要
 
 - Project タイトル : dugstheme
-- 関連 URL : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- 関連 URL1 : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- 関連 URL2 : https://vscodethemes.com/
 - 目標 : パーソナル vscode テーマを制作すること
   </br>
   </br>

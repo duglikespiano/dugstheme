@@ -14,7 +14,8 @@
 ### 1. Overview
 
 - Project title : dugstheme
-- Related URL : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- Related URL1 : https://youtu.be/pGzssFNtWXw?si=EjAq5zJ3XzUy8xSm
+- Related URL2 : https://vscodethemes.com/
 - Goal : To make private vscode themes
   </br>
   </br>
